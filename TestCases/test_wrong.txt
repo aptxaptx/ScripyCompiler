@@ -1,0 +1,3 @@
+def case(x,y):
+	return "123"
+print case(a,b)
